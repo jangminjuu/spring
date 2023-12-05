@@ -36,8 +36,6 @@ notion page : https://www.notion.so/0b1f68953e904d4b98773052a125c687
 
 
 
-# 프로젝트 환경설정
-
 [Project 환경설정(IntelliJ)](https://www.notion.so/Project-IntelliJ-c6022cf1615642b6b6d999e79cfa3b79?pvs=21)
 
 [라이브러리](https://www.notion.so/a7d5e164f0bb42adbdcfaae5a4192e6f?pvs=21)
